@@ -1,0 +1,9 @@
+name: site-viewer
+summary: site-viewer
+maintainer: Chris Heckler <hecklerchris@hotmail.com>
+description: |
+  Charm that deploys Flask site_viewer_app
+tags:
+  - webapp
+series: 
+  - bionic
