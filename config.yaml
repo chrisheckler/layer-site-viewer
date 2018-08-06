@@ -1,0 +1,6 @@
+options:
+  git-flask-repo:
+    default: 'https://github.com/chrisheckler/site_viewer_app.git'
+    type: string
+    description: |
+      Determines the git repo to clone.  Flask app needs to be named application.py 
